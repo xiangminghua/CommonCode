@@ -1,0 +1,9 @@
+D:\Code\CodeFunction\Common.ScreenShot\bin\Debug\netstandard2.0\Common.ScreenShot.deps.json
+D:\Code\CodeFunction\Common.ScreenShot\bin\Debug\netstandard2.0\Common.ScreenShot.dll
+D:\Code\CodeFunction\Common.ScreenShot\bin\Debug\netstandard2.0\Common.ScreenShot.pdb
+D:\Code\CodeFunction\Common.ScreenShot\obj\Debug\netstandard2.0\Common.ScreenShot.AssemblyInfoInputs.cache
+D:\Code\CodeFunction\Common.ScreenShot\obj\Debug\netstandard2.0\Common.ScreenShot.AssemblyInfo.cs
+D:\Code\CodeFunction\Common.ScreenShot\obj\Debug\netstandard2.0\Common.ScreenShot.csproj.CoreCompileInputs.cache
+D:\Code\CodeFunction\Common.ScreenShot\obj\Debug\netstandard2.0\Common.ScreenShot.dll
+D:\Code\CodeFunction\Common.ScreenShot\obj\Debug\netstandard2.0\Common.ScreenShot.pdb
+D:\Code\CodeFunction\Common.ScreenShot\obj\Debug\netstandard2.0\Common.ScreenShot.csprojAssemblyReference.cache

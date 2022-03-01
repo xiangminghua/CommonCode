@@ -1,0 +1,7 @@
+D:\Code\CodeFunction\Common.Inherit\obj\Debug\Common.Inherit.csprojAssemblyReference.cache
+D:\Code\CodeFunction\Common.Inherit\obj\Debug\Common.Inherit.csproj.CoreCompileInputs.cache
+D:\Code\CodeFunction\Common.Inherit\bin\Debug\Common.Inherit.exe.config
+D:\Code\CodeFunction\Common.Inherit\bin\Debug\Common.Inherit.exe
+D:\Code\CodeFunction\Common.Inherit\bin\Debug\Common.Inherit.pdb
+D:\Code\CodeFunction\Common.Inherit\obj\Debug\Common.Inherit.exe
+D:\Code\CodeFunction\Common.Inherit\obj\Debug\Common.Inherit.pdb

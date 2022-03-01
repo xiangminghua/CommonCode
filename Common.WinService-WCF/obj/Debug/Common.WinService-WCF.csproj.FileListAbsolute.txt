@@ -1,0 +1,7 @@
+D:\Code\CodeFunction\Common.WinService-WCF\bin\Debug\Common.WinService-WCF.exe.config
+D:\Code\CodeFunction\Common.WinService-WCF\bin\Debug\Common.WinService-WCF.exe
+D:\Code\CodeFunction\Common.WinService-WCF\bin\Debug\Common.WinService-WCF.pdb
+D:\Code\CodeFunction\Common.WinService-WCF\obj\Debug\Common.WinService-WCF.exe
+D:\Code\CodeFunction\Common.WinService-WCF\obj\Debug\Common.WinService-WCF.pdb
+D:\Code\CodeFunction\Common.WinService-WCF\obj\Debug\Common.WinService-WCF.csproj.CoreCompileInputs.cache
+D:\Code\CodeFunction\Common.WinService-WCF\obj\Debug\Common.WinService-WCF.csprojAssemblyReference.cache

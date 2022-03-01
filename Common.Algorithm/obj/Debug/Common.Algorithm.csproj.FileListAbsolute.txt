@@ -1,0 +1,7 @@
+D:\Code\CodeFunction\Common.Algorithm\bin\Debug\Common.Algorithm.exe.config
+D:\Code\CodeFunction\Common.Algorithm\bin\Debug\Common.Algorithm.exe
+D:\Code\CodeFunction\Common.Algorithm\bin\Debug\Common.Algorithm.pdb
+D:\Code\CodeFunction\Common.Algorithm\obj\Debug\Common.Algorithm.csproj.CoreCompileInputs.cache
+D:\Code\CodeFunction\Common.Algorithm\obj\Debug\Common.Algorithm.exe
+D:\Code\CodeFunction\Common.Algorithm\obj\Debug\Common.Algorithm.pdb
+D:\Code\CodeFunction\Common.Algorithm\obj\Debug\Common.Algorithm.csprojAssemblyReference.cache

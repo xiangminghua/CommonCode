@@ -1,0 +1,13 @@
+D:\Code\CodeFunction\Common.CSharpEventDelegate\bin\Debug\netcoreapp3.1\Common.CSharpEventDelegate.exe
+D:\Code\CodeFunction\Common.CSharpEventDelegate\bin\Debug\netcoreapp3.1\Common.CSharpEventDelegate.deps.json
+D:\Code\CodeFunction\Common.CSharpEventDelegate\bin\Debug\netcoreapp3.1\Common.CSharpEventDelegate.runtimeconfig.json
+D:\Code\CodeFunction\Common.CSharpEventDelegate\bin\Debug\netcoreapp3.1\Common.CSharpEventDelegate.runtimeconfig.dev.json
+D:\Code\CodeFunction\Common.CSharpEventDelegate\bin\Debug\netcoreapp3.1\Common.CSharpEventDelegate.dll
+D:\Code\CodeFunction\Common.CSharpEventDelegate\bin\Debug\netcoreapp3.1\Common.CSharpEventDelegate.pdb
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.AssemblyInfoInputs.cache
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.AssemblyInfo.cs
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.csproj.CoreCompileInputs.cache
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.dll
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.pdb
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.genruntimeconfig.cache
+D:\Code\CodeFunction\Common.CSharpEventDelegate\obj\Debug\netcoreapp3.1\Common.CSharpEventDelegate.csprojAssemblyReference.cache

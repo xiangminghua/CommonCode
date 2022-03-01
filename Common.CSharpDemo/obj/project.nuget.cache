@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JXAsA0CemOhWqxQndLvoM+c+O3Dp5H+KEgvKFuEZkUAjYGSnx5FzC2x3/rnNsxgrsJ112BpntcU6KZdfnyqNyg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\CodeFunction\\Common.CSharpDemo\\Common.CSharpDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xmh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

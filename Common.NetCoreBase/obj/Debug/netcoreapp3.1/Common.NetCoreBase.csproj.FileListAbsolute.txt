@@ -1,0 +1,12 @@
+D:\Code\CodeFunction\Common.NetCoreBase\bin\Debug\netcoreapp3.1\Common.NetCoreBase.exe
+D:\Code\CodeFunction\Common.NetCoreBase\bin\Debug\netcoreapp3.1\Common.NetCoreBase.deps.json
+D:\Code\CodeFunction\Common.NetCoreBase\bin\Debug\netcoreapp3.1\Common.NetCoreBase.runtimeconfig.json
+D:\Code\CodeFunction\Common.NetCoreBase\bin\Debug\netcoreapp3.1\Common.NetCoreBase.runtimeconfig.dev.json
+D:\Code\CodeFunction\Common.NetCoreBase\bin\Debug\netcoreapp3.1\Common.NetCoreBase.dll
+D:\Code\CodeFunction\Common.NetCoreBase\bin\Debug\netcoreapp3.1\Common.NetCoreBase.pdb
+D:\Code\CodeFunction\Common.NetCoreBase\obj\Debug\netcoreapp3.1\Common.NetCoreBase.AssemblyInfoInputs.cache
+D:\Code\CodeFunction\Common.NetCoreBase\obj\Debug\netcoreapp3.1\Common.NetCoreBase.AssemblyInfo.cs
+D:\Code\CodeFunction\Common.NetCoreBase\obj\Debug\netcoreapp3.1\Common.NetCoreBase.csproj.CoreCompileInputs.cache
+D:\Code\CodeFunction\Common.NetCoreBase\obj\Debug\netcoreapp3.1\Common.NetCoreBase.dll
+D:\Code\CodeFunction\Common.NetCoreBase\obj\Debug\netcoreapp3.1\Common.NetCoreBase.pdb
+D:\Code\CodeFunction\Common.NetCoreBase\obj\Debug\netcoreapp3.1\Common.NetCoreBase.genruntimeconfig.cache

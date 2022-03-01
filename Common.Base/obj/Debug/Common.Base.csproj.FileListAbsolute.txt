@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\bin\Debug\Common.Base.exe.config
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\bin\Debug\Common.Base.exe
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\bin\Debug\Common.Base.pdb
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\obj\Debug\Common.Base.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\obj\Debug\Common.Base.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\obj\Debug\Common.Base.exe
+C:\Users\Administrator\Desktop\CodeFunction\Common.Base\obj\Debug\Common.Base.pdb
