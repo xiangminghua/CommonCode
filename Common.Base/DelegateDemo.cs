@@ -30,6 +30,8 @@ namespace Common.Base
             GreetPeople("李志中", ChineseGreeting);
             Console.ReadLine();
 
+            //232klj
+
         }
     }
 }
